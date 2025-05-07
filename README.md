@@ -125,7 +125,7 @@ _Below is an example of how you can instruct your audience on installing and set
 
 To get started with this template, follow these steps:
 
-1. Clone the repository: `git clone <https://github.com/username/repo-name.git`>
+1. Clone the repository: `git clone <https://github.com/username/next-strapi-apollo-template.git`>
 2. Install dependencies for Strapi: `cd strapi && npm install`
 3. Follow the example `.env.exaple` file in the `strapi` and nextjs directory and add your env variables
 4. Start the Strapi server: `npm run develop`
