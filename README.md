@@ -33,7 +33,7 @@
     <img src="public/favicon.png" alt="Logo" width="42" height="42">
   </a>
 
-  <h3 align="center">Strapi v4, Nextjs 13, Apollo Client Starter Template with Typescript</h3>
+  <h3 align="center">Strapi v4, Nextjs 13, Apollo. Starter Template with Typescript</h3>
 
   <!-- <p align="center">
     //
